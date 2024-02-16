@@ -35,7 +35,7 @@ echo " Definindo Permissões de Usuários, Arquivos e Diretórios"
 chmod 770 /adm
 chmod 770 /ven
 chmod 770 /sec
-chmod 770 /publico
+chmod 777 /publico
 
 echo "Script Finalizado!"
 
