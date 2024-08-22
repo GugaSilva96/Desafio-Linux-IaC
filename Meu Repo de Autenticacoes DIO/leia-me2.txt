@@ -1,0 +1,1 @@
+"gerada chaves publica e privada e configuração de autenticação por SSH"
